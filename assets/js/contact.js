@@ -47,7 +47,7 @@
                         $('.email-success').fadeOut(3000);
                     },
                     error: function (res) {
-
+                        
                     }
                 });
             } else {
